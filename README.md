@@ -16,7 +16,13 @@ O aplicativo permite pesquisar receitas por nome, ingredientes e nacionalidade. 
     <br>
     <br>
     
- <img src=''>
+ <img src='./WhatsApp Image 2022-06-03 at 12.35.18 (1).jpeg'>
+ <img src='./WhatsApp Image 2022-06-03 at 12.35.18.jpeg'>
+ <img src='./WhatsApp Image 2022-06-03 at 12.35.19 (1).jpeg'>
+ <img src='./WhatsApp Image 2022-06-03 at 12.35.19 (2).jpeg'>
+ <img src='./WhatsApp Image 2022-06-03 at 12.35.19 (3).jpeg'>
+ <img src='./WhatsApp Image 2022-06-03 at 12.35.19 (4).jpeg'>
+ <img src='./WhatsApp Image 2022-06-03 at 12.35.19.jpeg'>
 projeto feito em grupo com
     - JoarezXimenes
     - luacomacento
