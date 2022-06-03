@@ -16,7 +16,7 @@ O aplicativo permite pesquisar receitas por nome, ingredientes e nacionalidade. 
     <br>
     <br>
     
-    
+ <img src=''>
 projeto feito em grupo com
     - JoarezXimenes
     - luacomacento
